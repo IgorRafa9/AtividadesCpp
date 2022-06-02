@@ -1,2 +1,2 @@
 # AtividadesCpp
-Atividades C/C++
+Atividades C++
